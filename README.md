@@ -4,8 +4,11 @@ Presentado por: Nicolas Arias Estrada / Alvaro José Avendaño Vargas
 
 Se creó una aplicación para la gestión de paquetes de viajes ofrecidos por una agencia de viajes. La aplicación almacena los paquetes de viajes ofrecidos a los clientes de la siguiente manera: la fecha de inicio y fin del viaje, el destino y el precio. tambien almacena los datos de los clientes, datos de vuelos, de hoteles, y de reservas en vuelos y hoteles.
 
+[!NOTE]
+
 La aplicación permite:
 
+[!WARNING]
 1. Añadir
 
 • Añadir paquetes de viaje, clientes, vuelos, hoteles
